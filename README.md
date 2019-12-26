@@ -8,11 +8,13 @@ Part of the [Overlook framework](https://overlookjs.github.io/).
 
 ## Usage
 
-This module is under development and not ready for use yet.
+Singleton symbol store for [Overlook framework](https://overlookjs.github.io/).
 
-## Tests
+It exports an empty object which can be used to store symbols defined by `Route` class extensions etc.
 
-Use `npm test` to run the tests. Use `npm run cover` to check coverage.
+This module will never be updated, so `require('@overlook/symbol-store')` will always return the same object.
+
+Should not be imported or accessed directly. Other parts of the framework use this internally.
 
 ## Changelog
 
