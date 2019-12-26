@@ -1,0 +1,26 @@
+{
+  "name": "@overlook/symbol-store",
+  "version": "0.0.0",
+  "description": "Overlook framework symbol store",
+  "main": "index.js",
+  "author": {
+    "name": "Overlook Motel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/overlookjs/symbol-store.git"
+  },
+  "bugs": {
+    "url": "https://github.com/overlookjs/symbol-store/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "overlook"
+  ],
+  "engines": {
+    "node": ">=8"
+  },
+  "readmeFilename": "README.md",
+  "license": "MIT"
+}
